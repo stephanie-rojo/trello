@@ -1,0 +1,147 @@
+body{
+  margin: 0px;
+}
+.encabezado{
+  height: 40px;
+  width: 1280px;
+  background: #026AA7;
+  clear: both;
+  overflow: hidden;
+}
+.caja1{
+  height: 30px;
+  width: 100px;
+  background:#67A6CA ;
+  position: absolute;
+  left: 6px;
+  top: 4px;
+  border-radius: 3px;
+}
+.fa.fa-trello{
+  color: white;
+  margin-left: 6px;
+  margin-top: 5px;
+  font-size: 18px;
+  display: inline-block;
+}
+h4{
+  color:white ;
+  font-family: sans-serif;
+  margin: 0px;
+  display: inline-block;
+}
+.caja2{
+  margin: 0px;
+  height: 30px;
+  width: 170px;
+  background:#67A6CA ;
+  position: absolute;
+  left: 120px;
+  top: 4px;
+  border-radius: 3px;
+}
+.fa.fa-search{
+  color: white;
+  margin-left: 140px;
+  margin-top: 5px;
+  font-size: 17px;
+}
+
+.foto{
+  height: 40px;
+  width: 130px;
+  position: absolute;
+  left: 600px;
+}
+.caja3{
+  margin: 0px;
+  height: 30px;
+  width: 33px;
+  background:#67A6CA ;
+  position: absolute;
+  right:130px;
+  top: 4px;
+  border-radius: 3px;
+}
+.fa.fa-plus{
+  color: white;
+  margin-left: 10px;
+  margin-top: 5px;
+  font-size: 17px;
+}
+.caja4{
+  margin: 0px;
+  height: 30px;
+  width: 33px;
+  background:#67A6CA ;
+  position: absolute;
+  right:90px;
+  top: 4px;
+  border-radius: 3px;
+}
+.fa.fa-info-circle{
+  color: white;
+  margin-left: 9px;
+  margin-top: 5px;
+  font-size: 17px;
+}
+.caja5{
+  margin: 0px;
+  height: 30px;
+  width: 33px;
+  background:#67A6CA ;
+  position: absolute;
+  right:50px;
+  top: 4px;
+  border-radius: 3px;
+}
+.fa.fa-bell-o{
+  color: white;
+  margin-left: 7px;
+  margin-top: 5px;
+  font-size: 17px;
+}
+.foto2{
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  right:10px;
+  top: 4px;
+  border-radius: 200px;
+}
+.contenedor{
+  background: #0092D3;
+  height: 629px;
+  clear: both;
+  overflow: hidden;
+}
+h3{
+color:white ;
+font-family: sans-serif;
+margin-left: 20px;
+display: inline-block;
+}
+.fa.fa-star-o{
+  color: white;
+  margin-left: 20px;
+  font-size: 17px;
+}
+.fa.fa-user-o{
+  color: white;
+  margin-left: 35px;
+  font-size: 17px;
+}
+.texto1{
+  margin-left: 10px;
+  font-weight: normal;
+}
+.fa.fa-minus{
+  color: white;
+  margin-left: 680px;
+  font-size: 15px;
+}
+.texto2{
+  margin-left: 10px;
+  font-weight: normal;
+  text-decoration: underline;
+}
