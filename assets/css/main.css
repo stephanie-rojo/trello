@@ -145,3 +145,18 @@ display: inline-block;
   font-weight: normal;
   text-decoration: underline;
 }
+.contenedor1{
+  position: absolute;
+  top: 90px;
+  left: 21px;
+  border: 1px solid none;
+  height: 300px;
+  width: 200px;
+
+}
+#bton{
+  border:none;
+  background-color: transparent;
+  width: 200px;
+  height: 20px;
+}
